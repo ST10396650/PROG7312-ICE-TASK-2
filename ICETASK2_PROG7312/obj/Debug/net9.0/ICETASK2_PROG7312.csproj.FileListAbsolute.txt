@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\bin\Debug\net9.0\ICETASK2_PROG7312.exe
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\bin\Debug\net9.0\ICETASK2_PROG7312.deps.json
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\bin\Debug\net9.0\ICETASK2_PROG7312.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\bin\Debug\net9.0\ICETASK2_PROG7312.dll
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\bin\Debug\net9.0\ICETASK2_PROG7312.pdb
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.dll
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\refint\ICETASK2_PROG7312.dll
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.pdb
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ICETASK2_PROG7312.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\ICETASK2_PROG7312\ICETASK2_PROG7312\obj\Debug\net9.0\ref\ICETASK2_PROG7312.dll

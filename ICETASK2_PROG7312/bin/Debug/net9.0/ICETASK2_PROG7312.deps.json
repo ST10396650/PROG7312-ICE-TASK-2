@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ICETASK2_PROG7312/1.0.0": {
+        "runtime": {
+          "ICETASK2_PROG7312.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICETASK2_PROG7312/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
